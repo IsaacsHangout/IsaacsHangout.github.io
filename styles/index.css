@@ -1,44 +1,16 @@
-nav {
-  background-color: #313031;
-  display: inline-block;
-  vertical-align: middle;
+@import url('https://fonts.googleapis.com/css?family=Concert+One&subset=latin-ext');
+
+body {
   text-align: center;
-  padding: 10px;
-  border: 2px #c6cfd3 solid;
-  max-width: 800px;
-  min-width: 800px;
+  background-color: #fcf6e3;
+  font-family: 'Concert One', cursive;
 }
 
 .menu {
-  color: white;
   text-decoration: none;
-  padding: 10px 30px;
-  font-size: 30px;
+  color: #a87c6f;
+  padding: 0px 50px;
+  font-size: 30px
 }
 
-.menu:hover {
-  background-color: #597c77;
-}
-
-#content {
-  margin: 5px;
-  padding: 0px 10px 0px 10px;
-  background-color: #eff4ef;
-  max-width: 900px;
-  min-width: 900px;
- max-height: 600px;
-  min-height: 600px;
-  display: inline-block;
-  vertical-align: middle;
-  overflow: auto;
-}
-
-body {
-  background-color: #b3ab9c;
-  text-align: center;
-  font-family: 'IBM Plex Mono', monospace;
-  }
-
-.active {
-   background-color: #597c77; 
-}
+/*http://www.color-hex.com/color-palette/53444*/

@@ -1,1 +1,40 @@
-lol
+nav {
+  background-color: #313031;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  padding: 10px;
+  border: 2px #c6cfd3 solid;
+  max-width: 800px;
+  min-width: 800px;
+}
+
+.menu {
+  color: white;
+  text-decoration: none;
+  padding: 10px 30px;
+  font-size: 30px;
+}
+
+.menu:hover {
+  background-color: #597c77;
+}
+
+#content {
+  margin: 5px;
+  padding: 0px 10px 0px 10px;
+  background-color: #eff4ef;
+  max-width: 900px;
+  min-width: 900px;
+ max-height: 600px;
+  min-height: 600px;
+  display: inline-block;
+  vertical-align: middle;
+  overflow: auto;
+}
+
+body {
+  background-color: #b3ab9c;
+  text-align: center;
+  font-family: 'IBM Plex Mono', monospace;
+  }
